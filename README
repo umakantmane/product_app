@@ -1,0 +1,12 @@
+Steps to run app:
+
+1. npm run dev
+
+2. use app url in browser:
+   http://localhost:8000
+
+3. node server runs on http://localhost:3000
+
+Thank you and Regards
+Umakant Mane
+

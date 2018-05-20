@@ -23,7 +23,7 @@ class App extends React.Component {
               <a class="navbar-brand" href="#">Product app</a>
               </div>
               <ul class="nav navbar-nav navbar-right">
-                <li><Link to={'/product_lsting'} >Product List</Link></li>
+                <li><Link to={'/'} >Product List</Link></li>
                 <li><Link to={'/'}>Home</Link></li>
               </ul>
             </div>
